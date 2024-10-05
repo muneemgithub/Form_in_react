@@ -63,7 +63,6 @@ const FormComponent = () => {
   return (
     <div className="custom-background container-fluid d-flex align-items-center justify-content-center">
       <div className="row justify-content-center">
-        {/* Adjusted grid classes for responsiveness */}
         <div className="col-12 col-sm-10 col-md-8 col-lg-6">
           <div className="custom-card card shadow-lg p-4">
             <h2 className="custom-heading text-center mb-4">Sign Up</h2>
